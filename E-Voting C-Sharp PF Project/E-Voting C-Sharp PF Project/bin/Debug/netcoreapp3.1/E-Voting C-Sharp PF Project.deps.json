@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E-Voting C-Sharp PF Project/1.0.0": {
+        "runtime": {
+          "E-Voting C-Sharp PF Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Voting C-Sharp PF Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
